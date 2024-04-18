@@ -7,8 +7,6 @@ import os
 import torch
 from torch import nn
 
-import tqdm
-
 import sys
 
 import tarfile
